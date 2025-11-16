@@ -2,7 +2,7 @@ def foo(string):
     """
     Возвращает строку, преобразованную в верхний регистр
     """
-    print(string.upper())
+    return string.upper()
 
 def to_title(string):
     """
